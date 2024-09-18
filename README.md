@@ -9,4 +9,5 @@ snforge test# Basecamp2_TokenSender
 
 # Token Sender
 ## Criação keystore/carteira
-![Keystore]([https://github.com/wbarroz/Basecamp2_Counter/blob/main/IDE.png](https://github.com/wbarroz/Basecamp2_TokenSender/blob/main/carteiras.png))
+![Keystore](https://github.com/wbarroz/Basecamp2_TokenSender/blob/main/carteiras.png)
+![Local code status](https://github.com/wbarroz/Basecamp2_Counter/blob/main/IDE.png)
