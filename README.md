@@ -12,3 +12,6 @@ snforge test# Basecamp2_TokenSender
 ![Keystore](https://github.com/wbarroz/Basecamp2_TokenSender/blob/main/carteiras.png)
 ![Keystore](https://github.com/wbarroz/Basecamp2_TokenSender/blob/main/carteiras2.png)
 ![Keystore](https://github.com/wbarroz/Basecamp2_TokenSender/blob/main/carteiras3.png)
+
+## Declaração/Deploy Contrato
+![Keystore](https://github.com/wbarroz/Basecamp2_TokenSender/blob/main/contrato.png)
